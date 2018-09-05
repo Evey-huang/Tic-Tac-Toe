@@ -1,7 +1,7 @@
 ## 快速开始
 
 ```shell
-$ git clone 
+$ git clone https://github.com/Evey-huang/Tic-Tac-Toe.git
 $ npm install
 $ npm start
 ```
@@ -19,4 +19,6 @@ $ npm start
 
 
 ## 预览
+
+[预览地址](http://p1cjg886l.bkt.clouddn.com/tic-tac-toe2.mp4)
 
